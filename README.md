@@ -3,7 +3,7 @@ Small C++ class, that helps to measure time between different points in your cod
 
 Just use it like:
  
- '''
+'''
 MyTimer timer;
 // Do some stuff
 std::cout << timer.fromStart() << " seconds from timer started\n";
